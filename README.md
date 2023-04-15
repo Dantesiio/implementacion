@@ -1,3 +1,3 @@
 # implementacion
 
-Implementacion de Queue, Stack y Hashtable y de <Linkedlist>
+Implementacion de Queue, Stack y Hashtable y de Linkedlist
